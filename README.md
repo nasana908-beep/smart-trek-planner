@@ -1,6 +1,22 @@
-# Smart Trek Planner
+# Khoj: Your digital Sherpa, from start to summit
 
-An AI-Powered Trek Planning Application with RAG (Retrieval-Augmented Generation) technology for personalized adventure recommendations.
+An AI-Powered Trek Planning Application for personalized adventure recommendations. A one stop fits all approach to all things Mountaineering.
+
+1. Tailored trekking routes based on your fitness level, and risk tolerance. Whether you're a beginner or a seasoned climber, get a roadmap designed just for you
+2. Ask anything. Our AI-powered chatbot uses real-time web scraping to answer your questions about equipment rental, hotels, transportation, permit requirements, and local conditions.
+3. Browse seamlessly on a trusted, transparent directory of local Sherpas, medics, porters, and hoteliers. View bios, credentials, real-time availability, and traveler reviews, all in one place. 
+
+# Team & Team Members
+
+Team Name: Chiya Overflow
+
+Members
+
+Shreeyut Karmacharya: Backend development
+Rehash Adhikari: Backend development 
+Nasana Bajracharya: UI_UX/Front End Dev 
+Medhavi Pandit: Product Owner 
+Spriha Paudel: Program Manager
 
 ## Features
 
