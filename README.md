@@ -53,6 +53,7 @@ Spriha Paudel: Program Manager
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. https://v0-archive-ten-kappa.vercel.app/ deployed with our back-end service.
 
 ### Available Scripts
 
